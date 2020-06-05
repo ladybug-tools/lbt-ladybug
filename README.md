@@ -1,2 +1,20 @@
+[![Build Status](https://travis-ci.org/ladybug-tools/lbt-ladybug.svg?branch=master)](https://travis-ci.org/ladybug-tools/lbt-ladybug)
+
+[![IronPython](https://img.shields.io/badge/ironpython-2.7-red.svg)](https://github.com/IronLanguages/ironpython2/releases/tag/ipy-2.7.8/)
+
 # lbt-ladybug
-:beetle: :beetle: :beetle: Collection of all Ladybug core libraries
+
+Collection of all Ladybug core Python libraries.
+
+Note that this repository and corresponding Python package does not contain any
+code and it simply exists to provide a shortcut for installing all of the ladybug
+core libraries together.
+
+## Included Ladybug Packages
+
+Running `pip install lbt-ladybug` will result in the installation of the
+following Python packages:
+
+* [ladybug-core](https://github.com/ladybug-tools/ladybug)
+* [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry)
+* [ladybug-comfort](https://github.com/ladybug-tools/ladybug-comfort)
