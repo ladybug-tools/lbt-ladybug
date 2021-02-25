@@ -1,1 +1,1 @@
-ladybug-comfort==0.11.6
+ladybug-comfort==0.11.7
