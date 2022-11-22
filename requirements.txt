@@ -1,2 +1,2 @@
-ladybug-comfort==0.15.45
+ladybug-comfort==0.16.0
 ladybug-display==0.6.7
