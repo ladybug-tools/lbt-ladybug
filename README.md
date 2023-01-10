@@ -15,9 +15,11 @@ core libraries together.
 
 ## Included Ladybug Packages
 
-Running `pip install lbt-ladybug` will result in the installation of the
+Running `pip install lbt-ladybug -U` will result in the installation of the
 following Python packages:
 
 * [ladybug-core](https://github.com/ladybug-tools/ladybug)
 * [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry)
 * [ladybug-comfort](https://github.com/ladybug-tools/ladybug-comfort)
+* [ladybug-radiance](https://github.com/ladybug-tools/ladybug-radiance)
+* [ladybug-display](https://github.com/ladybug-tools/ladybug-display)
