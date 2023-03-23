@@ -13,7 +13,7 @@ setuptools.setup(
     setup_requires=['setuptools_scm'],
     author="Ladybug Tools",
     author_email="info@ladybug.tools",
-    description="Collection of all Ladybug core Python libraries",
+    description="Collection of several Ladybug core Python libraries",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ladybug-tools/lbt-ladybug",
